@@ -1,0 +1,11 @@
+:root {
+  --primary-dark: #00c853;
+  --primary-soft: #a7ffeb;
+  --bg-dark: #081017;
+  --text-soft: rgba(255,255,255,0.85);
+}
+
+body { 
+  background: var(--bg-dark); 
+  color: var(--text-soft); 
+}
